@@ -1,0 +1,14 @@
+img {
+    height: auto;
+
+    max-width: 600px;
+}
+
+.intropara {
+    color: red;
+    font-size: 14px;
+}
+
+a:hover {
+    color: aqua;
+}
